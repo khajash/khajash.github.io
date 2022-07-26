@@ -30,3 +30,8 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+```python
+def add(a, b):
+    return a + b
+```
